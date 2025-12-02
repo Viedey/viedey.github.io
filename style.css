@@ -631,3 +631,21 @@ video {
   width: 18px;
   height: 18px;
 }
+
+.ads-banner {
+  background: #f0f0f0;
+  border: 1px dashed #c9c9c9;
+  padding: 10px;
+  border-radius: 10px;
+  transition: .2s;
+}
+
+.ads-banner:hover {
+  background: #e8e8e8;
+  border-color: #b7b7b7;
+}
+
+.ads-img {
+  max-height: 120px;        /* Sesuaikan tinggi */
+  object-fit: contain;
+}

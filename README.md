@@ -1,1 +1,0 @@
-# https://videy.aridjaya.com/
